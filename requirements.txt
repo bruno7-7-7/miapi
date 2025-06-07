@@ -1,4 +1,6 @@
-flask
+Flask
+Pillow
 tensorflow
-flask-cors
-gunicorn
+numpy
+mediapipe
+gunicorn 
