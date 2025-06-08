@@ -5,3 +5,4 @@ numpy
 mediapipe
 gunicorn 
 flask-cors
+opencv-python-headless==4.6.0.66 
