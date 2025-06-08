@@ -4,3 +4,4 @@ tensorflow
 numpy
 mediapipe
 gunicorn 
+flask-cors
